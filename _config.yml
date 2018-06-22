@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Blog"
+title                    : "Aldair E. Gongora"
 title_separator          : "-"
 name                     : &name "Aldair E. Gongora"
 description              : &description "PhD Candidate at Boston University"
@@ -81,7 +81,7 @@ author:
   name             : "Aldair E. Gongora"
   avatar           : "profile.png"
   bio              : "PhD candidate at Boston University"
-  location         : "Boston"
+  location         : "Boston MA"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
