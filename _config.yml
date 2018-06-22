@@ -83,7 +83,7 @@ author:
   bio              : "PhD candidate at Boston University"
   location         : "Boston"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   uri              :
   bitbucket        :
